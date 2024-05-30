@@ -1,0 +1,9 @@
+{
+  "name": "nama-proyek-anda",
+  "version": "1.0.0",
+  "description": "Deskripsi proyek Anda",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
